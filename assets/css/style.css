@@ -253,7 +253,8 @@ padding-bottom: 1em;
      outline-style: none;
   outline-color: none;
        margin-right: 1em;
-       border-image: linear-gradient(to top, #3acfd5 0%, #3a4ed5 100%)2 100%;
+border: none;
+text-align: start;
 
    }
    .noiceinput::placeholder{
@@ -264,4 +265,19 @@ padding-bottom: 1em;
      font-family: 'Red Hat Display';
      font-weight: 900;
      
+   }
+   .bruhcontent{
+    
+      width: 414px;
+      height: 790px;
+      left: 753px;
+      top: 92px;
+      
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      background-image: url(/assets/images/Illustration\ 2.png);
+      border-radius: 1em;
+      
+      
    }
