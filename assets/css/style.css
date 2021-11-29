@@ -263,9 +263,11 @@ text-align: start;
      font-size: 1.5em;
      color: rgb(116, 114, 114);
      font-family: 'Red Hat Display';
-     font-weight: 900;
+font-weight: 900;
      
    }
+   
+
    .bruhcontent{
     
       width: 414px;
